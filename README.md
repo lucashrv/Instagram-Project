@@ -1,4 +1,4 @@
-# Projeto Instagram:computer:
+# Projeto Instagram clone
 
-Feito baseado nas aulas; com html e css, alterações feitas na foto de perfil e no nome de usuário do Instagram.
+##Criado com html e css, Instagram clone.
 
