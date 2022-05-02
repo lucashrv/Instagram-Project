@@ -1,5 +1,3 @@
-# Projeto Instagram clone
+# Instagram clone layout project
 
-##Criado com html e css, Instagram clone responsivo.
-
-##Desafio realizado pelo projeto da Digital Innovation One.
+## HTML, CSS Responsive.
